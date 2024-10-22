@@ -1,0 +1,7 @@
+﻿  lab_7.1iter.cpp
+C:\Users\Admin Computer\source\repos\lab_7.1iter\lab_7.1iter.cpp(62,17): error C2059: syntax error: '||'
+C:\Users\Admin Computer\source\repos\lab_7.1iter\lab_7.1iter.cpp(83,10): error C2601: 'Calc': local function definitions are illegal
+      C:\Users\Admin Computer\source\repos\lab_7.1iter\lab_7.1iter.cpp(73,1):
+      this line contains a '{' which has not yet been matched
+  
+C:\Users\Admin Computer\source\repos\lab_7.1iter\lab_7.1iter.cpp(73,1): error C1075: '{': no matching token found
